@@ -1,0 +1,8 @@
+Tú: hola
+Servidor: Código Morse: .... --- .-.. .- 
+Tú: hola
+Servidor: Código Morse: .... --- .-.. .- 
+Tú: ya
+Servidor: Código Morse: -.-- .- 
+Tú: hola
+Servidor: Código Morse: .... --- .-.. .- 
